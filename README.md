@@ -1,9 +1,68 @@
-# Younes - Étudiant en Développement à EPSI
+Younes Marmize
 
-## À propos de moi
-Je suis **Younes Marmize**, actuellement en deuxième année de développement à **EPSI**. Passionné par le dév, j'aime travailler sur des projets qui allient innovation et efficacité. J'ai déjà travaillé sur plusieurs projets qui m'ont permis de développer des compétences en **Python**, **Django**, **HTML/CSS**, et **JavaScript** etc...
+Étudiant en développement – EPSI
 
-## Contact
-N'hésite pas à me contacter via [mon profil GitHub](https://github.com/Younes2k) pour toute collaboration ou discussion.
+À propos
 
+Je suis Younes Marmize, étudiant en 3ᵉ à EPSI.
+Intéressé par le développement web et applicatif, je travaille sur des projets concrets en mettant l’accent sur la clarté du code, la structure et la fiabilité.
 
+J’ai acquis une bonne polyvalence grâce à des projets frontend, backend et mobile.
+
+About me
+
+I’m a computer science student at EPSI, focused on web and application development.
+I enjoy building well-structured projects and continuously improving my technical skills.
+
+Compétences
+Frontend
+
+HTML / CSS
+
+JavaScript
+
+React
+
+Tailwind CSS, Bootstrap
+
+Backend
+
+Python, Django
+
+PHP, Symfony
+
+API REST
+
+Langages
+
+Java
+
+Python
+
+JavaScript
+
+PHP
+
+Kotlin
+
+Mobile
+
+Flutter
+
+Android (Kotlin)
+
+Bases de données
+
+MySQL
+
+SQL
+
+Outils
+
+Git / GitHub
+
+VS Code
+
+Contact
+
+GitHub : https://github.com/Younes2k
