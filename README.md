@@ -1,68 +1,44 @@
-Younes Marmize
+# Salut, je suis Younes Marmize 
 
-Étudiant en développement – EPSI
+**Étudiant en développement – EPSI**
 
-À propos
+### À propos / About me
 
-Je suis Younes Marmize, étudiant en 3ᵉ à EPSI.
-Intéressé par le développement web et applicatif, je travaille sur des projets concrets en mettant l’accent sur la clarté du code, la structure et la fiabilité.
+👨‍💻 Je suis étudiant en 3ᵉ année à l'EPSI. Passionné par le développement web et applicatif, je travaille sur des projets concrets en mettant l'accent sur la clarté du code, la structure et la fiabilité. J'ai acquis une polyvalence grâce à des projets frontend, backend et mobile.
 
-J’ai acquis une bonne polyvalence grâce à des projets frontend, backend et mobile.
+🌍 *I’m a computer science student at EPSI, focused on web and application development. I enjoy building well-structured projects and continuously improving my technical skills.*
 
-About me
+---
 
-I’m a computer science student at EPSI, focused on web and application development.
-I enjoy building well-structured projects and continuously improving my technical skills.
+### 🛠️ Compétences Techniques / Tech Stack
 
-Compétences
-Frontend
+#### 🎨 Frontend
+*   **Langages :** HTML5, CSS3, JavaScript etc etc..
+*   **Frameworks & Libs :** React
+*   **Styling :** Tailwind CSS, Bootstrap
 
-HTML / CSS
+#### ⚙️ Backend
+*   **Python :** Django
+*   **PHP :** Symfony
+*   **Architecture :** API REST
 
-JavaScript
+#### 📱 Mobile
+*   **Cross-platform :** Flutter
+*   **Natif :** Android (Kotlin)
 
-React
+#### 💾 Bases de données
+*   MySQL
+*   SQL
 
-Tailwind CSS, Bootstrap
+#### 🔧 Outils & Autres
+*   **Versionning :** Git / GitHub
+*   **IDE :** VS Code
+*   **Langages Polyvalents :** Java, Python, PHP, Kotlin
 
-Backend
+---
 
-Python, Django
+### 📫 Me contacter
 
-PHP, Symfony
+*   [**Mon GitHub**](https://github.com/Younes2k)
 
-API REST
-
-Langages
-
-Java
-
-Python
-
-JavaScript
-
-PHP
-
-Kotlin
-
-Mobile
-
-Flutter
-
-Android (Kotlin)
-
-Bases de données
-
-MySQL
-
-SQL
-
-Outils
-
-Git / GitHub
-
-VS Code
-
-Contact
-
-GitHub : https://github.com/Younes2k
+⭐️ *Merci de votre visite !*
